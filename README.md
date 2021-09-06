@@ -1,2 +1,2 @@
-# React-React---Redux
+# React-React+Redux
 Using React-redux!
